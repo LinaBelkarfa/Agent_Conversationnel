@@ -9,28 +9,28 @@ Projet M2 - Agent conversationnel (rassemble tous les TP de l'année)
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#tp1">TP1</a></li>
+        <li><a href="#tp1">TP1 - Agents basics </a></li>
       </ul>
       <ul>
-        <li><a href="#tp2">TP2</a></li>
+        <li><a href="#tp2">TP2 - ChatBot DataCamp </a></li>
       </ul>
        <ul>
-        <li><a href="#tp3">TP3</a></li>
+        <li><a href="#tp3">TP3 - Eliza </a></li>
       </ul>
       <ul>
-        <li><a href="#tp4">TP4</a></li>
+        <li><a href="#tp4">TP4 - Parry </a></li>
       </ul>
       <ul>
-        <li><a href="#tp5">TP5</a></li>
+        <li><a href="#tp5">TP5 - GUS </a></li>
       </ul>
     </li>
     <li>
-      <a href="#conclusions">About The Project</a>
+      <a href="#conclusions">Conclusions</a>
       <ul>
-        <li><a href="#problèmes">TP1</a></li>
+        <li><a href="#problèmes">Problèmes</a></li>
       </ul>
       <ul>
-        <li><a href="#améliorations-possibles">TP2</a></li>
+        <li><a href="#améliorations-possibles">Améliorations possibles</a></li>
       </ul>
     </li>
   </ol>
