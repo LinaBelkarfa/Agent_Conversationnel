@@ -24,26 +24,15 @@ Projet M2 - Agent conversationnel (rassemble tous les TP de l'année)
         <li><a href="#tp5">TP5</a></li>
       </ul>
     </li>
-    
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#conclusions">About The Project</a>
       <ul>
-        <li><a href="#tp1">TP1</a></li>
+        <li><a href="#problèmes">TP1</a></li>
       </ul>
       <ul>
-        <li><a href="#tp2">TP2</a></li>
-      </ul>
-       <ul>
-        <li><a href="#tp3">TP3</a></li>
-      </ul>
-      <ul>
-        <li><a href="#tp4">TP4</a></li>
-      </ul>
-      <ul>
-        <li><a href="#tp5">TP5</a></li>
+        <li><a href="#améliorations-possibles">TP2</a></li>
       </ul>
     </li>
-    
   </ol>
 </details>
 
