@@ -1,6 +1,5 @@
 # Agent_Conversationnel
-Projet M2 - Agent conversationnel (rassemble tous les TP de l'année)
-
+Projet M2 - Agent conversationnel
 
 ### TP4
 #### Dans cette séance, vous devez créer un nouveau chatbot, ayant certaines caractéristiques de Parry.
