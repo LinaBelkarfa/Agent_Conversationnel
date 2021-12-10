@@ -13,3 +13,11 @@ Pour la création de Parry, vous pouvez vous baser sur le code utilisé pour pro
   5. Modifier le code du chatbot de façon à ce qu'il soit adapté à cette nouvelle syntaxe du script.
 
 Ce TP est réalisé en .ipynb (Jupyter Notebook, Python3), ce qui permet d'en voir les commentaires et détails d'exécutions. 
+
+#### Résultats
+  1. **Je n'ai pas eu le temps de terminer ce TP**
+  2. L'idée était de détecter les insultes grâce à un modele existant qui permet de les cacher, puis détecter les émotions grâce à un autre package
+  3. Nous aurions mis à jour les valeurs de nos compteurs peur, colère et méfiance.
+  4. En combinant cela à notre liste de mot sensible, nous aurions pu récupérer dans le fichier doctor.txt les reasmb qui renvoie les réactions pour des niveaux différents d'émotions
+ 
+   
